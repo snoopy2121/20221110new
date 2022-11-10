@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+a{
+    transition: color blue;
+    text-decoration: underline;
+  }
+  
+  a:hover{
+    color : #fa4936;
+    text-decoration: underline;
+  }
